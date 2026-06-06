@@ -1,0 +1,6 @@
+{
+  "name": "Price Comparison",
+  "description": "A smart, real-time price comparison app with search aggregation, historical price visualizer, and saved alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

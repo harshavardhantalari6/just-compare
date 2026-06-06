@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background circle shadow / glow inside icon center -->
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M 54,24 A 30,30 0 1,1 53.99,24 Z" />
+        
+    <!-- Main Price Tag Vector -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M 68,36 L 50,36 C 47.8,36 46,37.8 46,40 L 46,44 L 38,44 L 38,48 L 46,48 L 46,56 L 38,56 L 38,60 L 46,60 L 46,72 C 46,74.2 47.8,76 50,76 L 68,76 C 70.2,76 72,74.2 72,72 L 72,40 C 72,37.8 70.2,36 68,36 Z" />
+        
+    <!-- Comparing scale scale plates / tag details -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 59,44 C 60.7,44 62,45.3 62,47 C 62,48.7 60.7,50 59,50 C 57.3,50 56,48.7 56,47 C 56,45.3 57.3,44 59,44 Z M 59,54 L 59,68 C 63,68 66,66 66,62 L 66,56 Z M 52,48 L 52,64 C 52,65 53,66 54,66 L 56,66 Z" />
+
+</vector>
